@@ -1,0 +1,2 @@
+# YaRa.invite
+invitation
